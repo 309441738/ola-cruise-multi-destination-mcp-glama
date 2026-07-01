@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "309441738"
+  ],
+  "name": "Multi-Destination Cruise Options",
+  "description": "Explore various cruise options that visit multiple exciting destinations. Ideal for travelers looking to maximize their experience with diverse itineraries."
+}
